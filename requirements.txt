@@ -1,0 +1,4 @@
+chromedriver-autoinstaller==0.2.2
+image==1.5.33
+PyAutoGUI==0.9.52
+selenium==3.141.0
